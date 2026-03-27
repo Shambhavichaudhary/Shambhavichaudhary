@@ -20,6 +20,10 @@ Hi, I’m an IT student at GGSIPU 👋<br><br>I work with C/C++, MySQL and front
 ![](https://nirzak-streak-stats.vercel.app/?user=Shambhavichaudhary&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhavichaudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# STREAKS AND CONTRIBUTIONS:
+<p><img align="center" width="600" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavichaudhary&theme=dark"  /></p>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shambhavichaudhary&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
