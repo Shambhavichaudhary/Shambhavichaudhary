@@ -1,3 +1,4 @@
+![logo](https://github.com/Shambhavichaudhary/Shambhavichaudhary/blob/main/logo.png?raw=true)
 <h1 align="center">Hi 👋, I'm Shambhavi Chaudhary</h1>
 <h3 align="center">CODE. CREATE. EVOLVE ✧ </h3>
  <h3 align="center"> Building Logic With C/C++ & Crafting Interfaces With Frontend ✦</h3> 
