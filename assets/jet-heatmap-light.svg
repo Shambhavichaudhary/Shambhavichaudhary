@@ -1,0 +1,2812 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 760 236" role="img" aria-labelledby="title desc">
+    <title id="title">Shambhavichaudhary GitHub contribution jet heatmap</title>
+    <desc id="desc">Arcade jet targets real GitHub contribution cells, pops +commit scores, and accumulates TOTAL POINTS.</desc>
+    <defs>
+      <linearGradient id="bgGlow" x1="0" x2="1">
+        <stop offset="0%" stop-color="#f5eaee"/>
+        <stop offset="100%" stop-color="#f6f0f1"/>
+      </linearGradient>
+      <filter id="shadow" x="-60%" y="-60%" width="220%" height="220%">
+        <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#df6a7d" flood-opacity="0.7"/>
+      </filter>
+    </defs>
+
+    <rect width="100%" height="100%" fill="url(#bgGlow)" rx="22"/>
+
+    <g>
+      <rect x="10" y="10" width="740" height="216" rx="20" fill="#fff8f9" stroke="#e4d0d7"/>
+      <text x="24" y="28" fill="#5d3b46" font-size="10" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2">GITHUB ACTIVITY / CORE FLIGHT PATH</text>
+
+      <rect x="572" y="14" width="162" height="38" rx="9" fill="#f5eaee" stroke="#b34a5d" stroke-width="1.6"/>
+      <text x="584" y="30" fill="#5d3b46" font-size="8" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1.4">TOTAL POINTS</text>
+      <text x="584" y="44" fill="#5d3b46" font-size="8" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1.2">COMMITS</text>
+      <text x="652" y="42" fill="#df6a7d" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="1">0
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.1538;0.1548;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+    </text>
+      <text x="652" y="42" fill="#df6a7d" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">10
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1538;0.1548;0.3077;0.3087;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+      </text>
+    
+      <text x="652" y="42" fill="#df6a7d" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">16
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3077;0.3087;0.4615;0.4625;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+      </text>
+    
+      <text x="652" y="42" fill="#df6a7d" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">19
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4615;0.4625;0.6154;0.6164;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+      </text>
+    
+      <text x="652" y="42" fill="#df6a7d" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">22
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6154;0.6164;0.7692;0.7702;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+      </text>
+    
+      <text x="652" y="42" fill="#df6a7d" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">25
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7692;0.7702;0.9231;0.9241;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+      </text>
+    
+      <text x="652" y="42" fill="#df6a7d" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">27
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.9231;0.9241;1;1;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+      </text>
+    
+    </g>
+
+    <g>
+      
+        <g aria-label="No contributions on 2025-08-03">
+          <rect x="24" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-04">
+          <rect x="24" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-05">
+          <rect x="24" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-06">
+          <rect x="24" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-07">
+          <rect x="24" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-08">
+          <rect x="24" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-09">
+          <rect x="24" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-10">
+          <rect x="37" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-11">
+          <rect x="37" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-12">
+          <rect x="37" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-13">
+          <rect x="37" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-14">
+          <rect x="37" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-15">
+          <rect x="37" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-16">
+          <rect x="37" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-17">
+          <rect x="50" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-18">
+          <rect x="50" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-19">
+          <rect x="50" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-20">
+          <rect x="50" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-21">
+          <rect x="50" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-22">
+          <rect x="50" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-23">
+          <rect x="50" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-24">
+          <rect x="63" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-25">
+          <rect x="63" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-26">
+          <rect x="63" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-27">
+          <rect x="63" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-28">
+          <rect x="63" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-29">
+          <rect x="63" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-30">
+          <rect x="63" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-08-31">
+          <rect x="76" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-01">
+          <rect x="76" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-02">
+          <rect x="76" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-03">
+          <rect x="76" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-04">
+          <rect x="76" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-05">
+          <rect x="76" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-06">
+          <rect x="76" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-07">
+          <rect x="89" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-08">
+          <rect x="89" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-09">
+          <rect x="89" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-10">
+          <rect x="89" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-11">
+          <rect x="89" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-12">
+          <rect x="89" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-13">
+          <rect x="89" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-14">
+          <rect x="102" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-15">
+          <rect x="102" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-16">
+          <rect x="102" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-17">
+          <rect x="102" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-18">
+          <rect x="102" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-19">
+          <rect x="102" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-20">
+          <rect x="102" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-21">
+          <rect x="115" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-22">
+          <rect x="115" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-23">
+          <rect x="115" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-24">
+          <rect x="115" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-25">
+          <rect x="115" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-26">
+          <rect x="115" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-27">
+          <rect x="115" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-28">
+          <rect x="128" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-29">
+          <rect x="128" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-09-30">
+          <rect x="128" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-01">
+          <rect x="128" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-02">
+          <rect x="128" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-03">
+          <rect x="128" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-04">
+          <rect x="128" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-05">
+          <rect x="141" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-06">
+          <rect x="141" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-07">
+          <rect x="141" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-08">
+          <rect x="141" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-09">
+          <rect x="141" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-10">
+          <rect x="141" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-11">
+          <rect x="141" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-12">
+          <rect x="154" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-13">
+          <rect x="154" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-14">
+          <rect x="154" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-15">
+          <rect x="154" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-16">
+          <rect x="154" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-17">
+          <rect x="154" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-18">
+          <rect x="154" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-19">
+          <rect x="167" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-20">
+          <rect x="167" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-21">
+          <rect x="167" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-22">
+          <rect x="167" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-23">
+          <rect x="167" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-24">
+          <rect x="167" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-25">
+          <rect x="167" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-26">
+          <rect x="180" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-27">
+          <rect x="180" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-28">
+          <rect x="180" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-29">
+          <rect x="180" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-30">
+          <rect x="180" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-10-31">
+          <rect x="180" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-01">
+          <rect x="180" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-02">
+          <rect x="193" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-03">
+          <rect x="193" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-04">
+          <rect x="193" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-05">
+          <rect x="193" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-06">
+          <rect x="193" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-07">
+          <rect x="193" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-08">
+          <rect x="193" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-09">
+          <rect x="206" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-10">
+          <rect x="206" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-11">
+          <rect x="206" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-12">
+          <rect x="206" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-13">
+          <rect x="206" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-14">
+          <rect x="206" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-15">
+          <rect x="206" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-16">
+          <rect x="219" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-17">
+          <rect x="219" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-18">
+          <rect x="219" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-19">
+          <rect x="219" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-20">
+          <rect x="219" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-21">
+          <rect x="219" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-22">
+          <rect x="219" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-23">
+          <rect x="232" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-24">
+          <rect x="232" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-25">
+          <rect x="232" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-26">
+          <rect x="232" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-27">
+          <rect x="232" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-28">
+          <rect x="232" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-29">
+          <rect x="232" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-11-30">
+          <rect x="245" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-01">
+          <rect x="245" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-02">
+          <rect x="245" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-03">
+          <rect x="245" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-04">
+          <rect x="245" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-05">
+          <rect x="245" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-06">
+          <rect x="245" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-07">
+          <rect x="258" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-08">
+          <rect x="258" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-09">
+          <rect x="258" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-10">
+          <rect x="258" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-11">
+          <rect x="258" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-12">
+          <rect x="258" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-13">
+          <rect x="258" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-14">
+          <rect x="271" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-15">
+          <rect x="271" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-16">
+          <rect x="271" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-17">
+          <rect x="271" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-18">
+          <rect x="271" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-19">
+          <rect x="271" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-20">
+          <rect x="271" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-21">
+          <rect x="284" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-22">
+          <rect x="284" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-23">
+          <rect x="284" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-24">
+          <rect x="284" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-25">
+          <rect x="284" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-26">
+          <rect x="284" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-27">
+          <rect x="284" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-28">
+          <rect x="297" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-29">
+          <rect x="297" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-30">
+          <rect x="297" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2025-12-31">
+          <rect x="297" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-01">
+          <rect x="297" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-02">
+          <rect x="297" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-03">
+          <rect x="297" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-04">
+          <rect x="310" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-05">
+          <rect x="310" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-06">
+          <rect x="310" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-07">
+          <rect x="310" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-08">
+          <rect x="310" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-09">
+          <rect x="310" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-10">
+          <rect x="310" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-11">
+          <rect x="323" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-12">
+          <rect x="323" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-13">
+          <rect x="323" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-14">
+          <rect x="323" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-15">
+          <rect x="323" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-16">
+          <rect x="323" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-17">
+          <rect x="323" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-18">
+          <rect x="336" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-19">
+          <rect x="336" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-20">
+          <rect x="336" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-21">
+          <rect x="336" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-22">
+          <rect x="336" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-23">
+          <rect x="336" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-24">
+          <rect x="336" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-25">
+          <rect x="349" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-26">
+          <rect x="349" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-27">
+          <rect x="349" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-28">
+          <rect x="349" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-29">
+          <rect x="349" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-30">
+          <rect x="349" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-01-31">
+          <rect x="349" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-01">
+          <rect x="362" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-02">
+          <rect x="362" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-03">
+          <rect x="362" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-04">
+          <rect x="362" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-05">
+          <rect x="362" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-06">
+          <rect x="362" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-07">
+          <rect x="362" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-08">
+          <rect x="375" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-09">
+          <rect x="375" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-10">
+          <rect x="375" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-11">
+          <rect x="375" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-12">
+          <rect x="375" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-13">
+          <rect x="375" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-14">
+          <rect x="375" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-15">
+          <rect x="388" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-16">
+          <rect x="388" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-17">
+          <rect x="388" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-18">
+          <rect x="388" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-19">
+          <rect x="388" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-20">
+          <rect x="388" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-21">
+          <rect x="388" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-22">
+          <rect x="401" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-23">
+          <rect x="401" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-24">
+          <rect x="401" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-25">
+          <rect x="401" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-26">
+          <rect x="401" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-27">
+          <rect x="401" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-02-28">
+          <rect x="401" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-01">
+          <rect x="414" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-02">
+          <rect x="414" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-03">
+          <rect x="414" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-04">
+          <rect x="414" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-05">
+          <rect x="414" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-06">
+          <rect x="414" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-07">
+          <rect x="414" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-08">
+          <rect x="427" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-09">
+          <rect x="427" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-10">
+          <rect x="427" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-11">
+          <rect x="427" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-12">
+          <rect x="427" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-13">
+          <rect x="427" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-14">
+          <rect x="427" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-15">
+          <rect x="440" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-16">
+          <rect x="440" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-17">
+          <rect x="440" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-18">
+          <rect x="440" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-19">
+          <rect x="440" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-20">
+          <rect x="440" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-21">
+          <rect x="440" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-22">
+          <rect x="453" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-23">
+          <rect x="453" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-24">
+          <rect x="453" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-25">
+          <rect x="453" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-26">
+          <rect x="453" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="6 contributions on 2026-03-27">
+          <rect x="453" y="99" width="9" height="9" rx="2.2" fill="#e58aa0" stroke="#7a2b3e" opacity="0.96">
+            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.29769999999999996;0.3077;0.36769999999999997;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </rect>
+          
+          <circle cx="457.5" cy="103.5" r="4" fill="none" stroke="#df6a7d" stroke-width="2.4" opacity="0">
+            <animate attributeName="r" values="4;18;18" keyTimes="0;0.3077;0.36769999999999997" dur="16.799999999999997s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.29769999999999996;0.3077;0.36769999999999997;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </circle>
+          <rect x="451.5" y="97.5" width="12" height="12" rx="3" fill="none" stroke="#8c394d" stroke-width="1.5" opacity="0">
+            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.30269999999999997;0.3077;0.36769999999999997;0.40769999999999995;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-28">
+          <rect x="453" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-29">
+          <rect x="466" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-30">
+          <rect x="466" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-03-31">
+          <rect x="466" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-01">
+          <rect x="466" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-02">
+          <rect x="466" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-03">
+          <rect x="466" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-04">
+          <rect x="466" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-05">
+          <rect x="479" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-06">
+          <rect x="479" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-07">
+          <rect x="479" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-08">
+          <rect x="479" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-09">
+          <rect x="479" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-10">
+          <rect x="479" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-11">
+          <rect x="479" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-12">
+          <rect x="492" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-13">
+          <rect x="492" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-14">
+          <rect x="492" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-15">
+          <rect x="492" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-16">
+          <rect x="492" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-17">
+          <rect x="492" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-18">
+          <rect x="492" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-19">
+          <rect x="505" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-20">
+          <rect x="505" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-21">
+          <rect x="505" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-22">
+          <rect x="505" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-23">
+          <rect x="505" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-24">
+          <rect x="505" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-25">
+          <rect x="505" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-26">
+          <rect x="518" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-27">
+          <rect x="518" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-28">
+          <rect x="518" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-29">
+          <rect x="518" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-04-30">
+          <rect x="518" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-01">
+          <rect x="518" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-02">
+          <rect x="518" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-03">
+          <rect x="531" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-04">
+          <rect x="531" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-05">
+          <rect x="531" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-06">
+          <rect x="531" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-07">
+          <rect x="531" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-08">
+          <rect x="531" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-09">
+          <rect x="531" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-10">
+          <rect x="544" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-11">
+          <rect x="544" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-12">
+          <rect x="544" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-13">
+          <rect x="544" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-14">
+          <rect x="544" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-15">
+          <rect x="544" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-16">
+          <rect x="544" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-17">
+          <rect x="557" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-18">
+          <rect x="557" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-19">
+          <rect x="557" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-20">
+          <rect x="557" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-21">
+          <rect x="557" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-22">
+          <rect x="557" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-23">
+          <rect x="557" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-24">
+          <rect x="570" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-25">
+          <rect x="570" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-26">
+          <rect x="570" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-27">
+          <rect x="570" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-28">
+          <rect x="570" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-29">
+          <rect x="570" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-30">
+          <rect x="570" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-05-31">
+          <rect x="583" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-01">
+          <rect x="583" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-02">
+          <rect x="583" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-03">
+          <rect x="583" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-04">
+          <rect x="583" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-05">
+          <rect x="583" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-06">
+          <rect x="583" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-07">
+          <rect x="596" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-08">
+          <rect x="596" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-09">
+          <rect x="596" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-10">
+          <rect x="596" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-11">
+          <rect x="596" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-12">
+          <rect x="596" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-13">
+          <rect x="596" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-14">
+          <rect x="609" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-15">
+          <rect x="609" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-16">
+          <rect x="609" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-17">
+          <rect x="609" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-18">
+          <rect x="609" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-19">
+          <rect x="609" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-20">
+          <rect x="609" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-21">
+          <rect x="622" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-22">
+          <rect x="622" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-23">
+          <rect x="622" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-24">
+          <rect x="622" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-25">
+          <rect x="622" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-26">
+          <rect x="622" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-27">
+          <rect x="622" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-28">
+          <rect x="635" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-29">
+          <rect x="635" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-06-30">
+          <rect x="635" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-01">
+          <rect x="635" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-02">
+          <rect x="635" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-03">
+          <rect x="635" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-04">
+          <rect x="635" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-05">
+          <rect x="648" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-06">
+          <rect x="648" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-07">
+          <rect x="648" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-08">
+          <rect x="648" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-09">
+          <rect x="648" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-10">
+          <rect x="648" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-11">
+          <rect x="648" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-12">
+          <rect x="661" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-13">
+          <rect x="661" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-14">
+          <rect x="661" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-15">
+          <rect x="661" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-16">
+          <rect x="661" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-17">
+          <rect x="661" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-18">
+          <rect x="661" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-19">
+          <rect x="674" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-20">
+          <rect x="674" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-21">
+          <rect x="674" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-22">
+          <rect x="674" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-23">
+          <rect x="674" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-24">
+          <rect x="674" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-25">
+          <rect x="674" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-26">
+          <rect x="687" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-27">
+          <rect x="687" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-28">
+          <rect x="687" y="60" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-29">
+          <rect x="687" y="73" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-30">
+          <rect x="687" y="86" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-07-31">
+          <rect x="687" y="99" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-08-01">
+          <rect x="687" y="112" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-08-02">
+          <rect x="700" y="34" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="No contributions on 2026-08-03">
+          <rect x="700" y="47" width="9" height="9" rx="2.2" fill="#f0eff0" stroke="#e4d0d7" opacity="0.42">
+            
+          </rect>
+          
+        </g>
+      
+        <g aria-label="10 contributions on 2026-08-04">
+          <rect x="700" y="60" width="9" height="9" rx="2.2" fill="#d35d74" stroke="#7a2b3e" opacity="0.96">
+            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.14379999999999998;0.1538;0.2138;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </rect>
+          
+          <circle cx="704.5" cy="64.5" r="4" fill="none" stroke="#df6a7d" stroke-width="2.4" opacity="0">
+            <animate attributeName="r" values="4;18;18" keyTimes="0;0.1538;0.2138" dur="16.799999999999997s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.14379999999999998;0.1538;0.2138;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </circle>
+          <rect x="698.5" y="58.5" width="12" height="12" rx="3" fill="none" stroke="#8c394d" stroke-width="1.5" opacity="0">
+            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.1488;0.1538;0.2138;0.25379999999999997;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      
+        <g aria-label="3 contributions on 2026-08-05">
+          <rect x="700" y="73" width="9" height="9" rx="2.2" fill="#efbac8" stroke="#7a2b3e" opacity="0.96">
+            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.4515;0.4615;0.5215000000000001;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </rect>
+          
+          <circle cx="704.5" cy="77.5" r="4" fill="none" stroke="#df6a7d" stroke-width="1.8" opacity="0">
+            <animate attributeName="r" values="4;14;14" keyTimes="0;0.4615;0.5215000000000001" dur="16.799999999999997s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.4515;0.4615;0.5215000000000001;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </circle>
+          <rect x="698.5" y="71.5" width="12" height="12" rx="3" fill="none" stroke="#8c394d" stroke-width="1.5" opacity="0">
+            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.4565;0.4615;0.5215000000000001;0.5615000000000001;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      
+        <g aria-label="3 contributions on 2026-08-06">
+          <rect x="700" y="86" width="9" height="9" rx="2.2" fill="#efbac8" stroke="#7a2b3e" opacity="0.96">
+            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.6053999999999999;0.6154;0.6754;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </rect>
+          
+          <circle cx="704.5" cy="90.5" r="4" fill="none" stroke="#df6a7d" stroke-width="1.8" opacity="0">
+            <animate attributeName="r" values="4;14;14" keyTimes="0;0.6154;0.6754" dur="16.799999999999997s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.6053999999999999;0.6154;0.6754;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </circle>
+          <rect x="698.5" y="84.5" width="12" height="12" rx="3" fill="none" stroke="#8c394d" stroke-width="1.5" opacity="0">
+            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.6103999999999999;0.6154;0.6754;0.7154;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      
+        <g aria-label="2 contributions on 2026-08-07">
+          <rect x="700" y="99" width="9" height="9" rx="2.2" fill="#f4dfe5" stroke="#7a2b3e" opacity="0.96">
+            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.9131;0.9231;0.9831000000000001;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </rect>
+          
+          <circle cx="704.5" cy="103.5" r="4" fill="none" stroke="#df6a7d" stroke-width="1.3" opacity="0">
+            <animate attributeName="r" values="4;11;11" keyTimes="0;0.9231;0.9831000000000001" dur="16.799999999999997s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.9131;0.9231;0.9831000000000001;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </circle>
+          <rect x="698.5" y="97.5" width="12" height="12" rx="3" fill="none" stroke="#8c394d" stroke-width="1.5" opacity="0">
+            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.9181;0.9231;0.9831000000000001;1;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      
+        <g aria-label="3 contributions on 2026-08-08">
+          <rect x="700" y="112" width="9" height="9" rx="2.2" fill="#efbac8" stroke="#7a2b3e" opacity="0.96">
+            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.7592;0.7692;0.8291999999999999;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </rect>
+          
+          <circle cx="704.5" cy="116.5" r="4" fill="none" stroke="#df6a7d" stroke-width="1.8" opacity="0">
+            <animate attributeName="r" values="4;14;14" keyTimes="0;0.7692;0.8291999999999999" dur="16.799999999999997s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.7592;0.7692;0.8291999999999999;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </circle>
+          <rect x="698.5" y="110.5" width="12" height="12" rx="3" fill="none" stroke="#8c394d" stroke-width="1.5" opacity="0">
+            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.7642;0.7692;0.8291999999999999;0.8692;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      
+    </g>
+
+    <!-- mission path is target-driven (invisible gameplay rail) -->
+    <path id="missionTrack" d="M 380.0 200.0 L 704.5 86.5 L 704.5 64.5 L 457.5 125.5 L 457.5 103.5 L 704.5 99.5 L 704.5 77.5 L 704.5 112.5 L 704.5 90.5 L 704.5 138.5 L 704.5 116.5 L 704.5 125.5 L 704.5 103.5 L 380.0 200.0" fill="none" stroke="#df6a7d" stroke-width="1.2" stroke-dasharray="3 7" opacity="0.18"/>
+
+    <g>
+      
+        <line x1="704.5" y1="78.5" x2="704.5" y2="67.5" stroke="#8c394d" stroke-width="2" stroke-linecap="round" opacity="0">
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.13879999999999998;0.1538;0.1888;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </line>
+        <circle cx="704.5" cy="64.5" r="2.5" fill="#1d1d1d" opacity="0">
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.1538;0.1618;0.1888;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          <animate attributeName="r" values="1;1;5;2;2" keyTimes="0;0.1538;0.1638;0.1888;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </circle>
+      
+        <line x1="457.5" y1="117.5" x2="457.5" y2="106.5" stroke="#8c394d" stroke-width="2" stroke-linecap="round" opacity="0">
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.29269999999999996;0.3077;0.3427;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </line>
+        <circle cx="457.5" cy="103.5" r="2.5" fill="#1d1d1d" opacity="0">
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.3077;0.3157;0.3427;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          <animate attributeName="r" values="1;1;5;2;2" keyTimes="0;0.3077;0.3177;0.3427;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </circle>
+      
+        <line x1="704.5" y1="91.5" x2="704.5" y2="80.5" stroke="#8c394d" stroke-width="2" stroke-linecap="round" opacity="0">
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.4465;0.4615;0.49650000000000005;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </line>
+        <circle cx="704.5" cy="77.5" r="2.5" fill="#1d1d1d" opacity="0">
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.4615;0.46950000000000003;0.49650000000000005;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          <animate attributeName="r" values="1;1;5;2;2" keyTimes="0;0.4615;0.47150000000000003;0.49650000000000005;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </circle>
+      
+        <line x1="704.5" y1="104.5" x2="704.5" y2="93.5" stroke="#8c394d" stroke-width="2" stroke-linecap="round" opacity="0">
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.6003999999999999;0.6154;0.6504;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </line>
+        <circle cx="704.5" cy="90.5" r="2.5" fill="#1d1d1d" opacity="0">
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.6154;0.6234;0.6504;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          <animate attributeName="r" values="1;1;5;2;2" keyTimes="0;0.6154;0.6254;0.6504;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </circle>
+      
+        <line x1="704.5" y1="130.5" x2="704.5" y2="119.5" stroke="#8c394d" stroke-width="2" stroke-linecap="round" opacity="0">
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.7542;0.7692;0.8042;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </line>
+        <circle cx="704.5" cy="116.5" r="2.5" fill="#1d1d1d" opacity="0">
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.7692;0.7772;0.8042;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          <animate attributeName="r" values="1;1;5;2;2" keyTimes="0;0.7692;0.7792;0.8042;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </circle>
+      
+        <line x1="704.5" y1="117.5" x2="704.5" y2="106.5" stroke="#8c394d" stroke-width="2" stroke-linecap="round" opacity="0">
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.9081;0.9231;0.9581000000000001;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </line>
+        <circle cx="704.5" cy="103.5" r="2.5" fill="#1d1d1d" opacity="0">
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.9231;0.9311;0.9581000000000001;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          <animate attributeName="r" values="1;1;5;2;2" keyTimes="0;0.9231;0.9331;0.9581000000000001;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </circle>
+      
+      
+        <text x="704.5" y="64.5" text-anchor="middle" fill="#df6a7d" font-size="14" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">+10
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1538;0.1638;0.1938;0.2738;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="64.5;64.5;64.5;51.9;36.5;36.5" keyTimes="0;0.1538;0.1638;0.1938;0.2738;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </text>
+      
+        <text x="457.5" y="103.5" text-anchor="middle" fill="#df6a7d" font-size="14" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">+6
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3077;0.3177;0.34769999999999995;0.42769999999999997;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="103.5;103.5;103.5;90.9;75.5;75.5" keyTimes="0;0.3077;0.3177;0.34769999999999995;0.42769999999999997;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </text>
+      
+        <text x="704.5" y="77.5" text-anchor="middle" fill="#df6a7d" font-size="12" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">+3
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4615;0.47150000000000003;0.5015000000000001;0.5815;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="77.5;77.5;77.5;67.6;55.5;55.5" keyTimes="0;0.4615;0.47150000000000003;0.5015000000000001;0.5815;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </text>
+      
+        <text x="704.5" y="90.5" text-anchor="middle" fill="#df6a7d" font-size="12" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">+3
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6154;0.6254;0.6554;0.7353999999999999;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="90.5;90.5;90.5;80.6;68.5;68.5" keyTimes="0;0.6154;0.6254;0.6554;0.7353999999999999;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </text>
+      
+        <text x="704.5" y="116.5" text-anchor="middle" fill="#df6a7d" font-size="12" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">+3
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7692;0.7792;0.8092;0.8892;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="116.5;116.5;116.5;106.6;94.5;94.5" keyTimes="0;0.7692;0.7792;0.8092;0.8892;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </text>
+      
+        <text x="704.5" y="103.5" text-anchor="middle" fill="#df6a7d" font-size="10" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">+2
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.9231;0.9331;0.9631000000000001;1;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="103.5;103.5;103.5;96.3;87.5;87.5" keyTimes="0;0.9231;0.9331;0.9631000000000001;1;1" dur="16.799999999999997s" repeatCount="indefinite"/>
+        </text>
+      
+    </g>
+
+    <g filter="url(#shadow)">
+      <g>
+        
+    <g transform="scale(0.92)">
+      <ellipse cx="-18" cy="0" rx="11" ry="4" fill="#d45a72" opacity="0.75"/>
+      <path d="M -12 0 L -24 -3.5 L -32 0 L -24 3.5 Z" fill="#d45a72" opacity="0.95"/>
+      <path d="M -12 -1.2 L -17 -8 L -8 -2 Z" fill="#2a1520"/>
+      <path d="M -12 1.2 L -17 8 L -8 2 Z" fill="#2a1520"/>
+      <path d="M -1 0 L -9 -13 L 6 -3.2 Z" fill="#2a1520"/>
+      <path d="M -1 0 L -9 13 L 6 3.2 Z" fill="#2a1520"/>
+      <path d="M -1 0 L -9 -13 L 6 -3.2 Z" fill="#b34a5d" opacity="0.35"/>
+      <path d="M -1 0 L -9 13 L 6 3.2 Z" fill="#b34a5d" opacity="0.35"/>
+      <path d="M -15 0 L -9 -3.6 L 12 -2.4 L 20 0 L 12 2.4 L -9 3.6 Z" fill="#2a1520"/>
+      <path d="M -6 0 L 14 0" stroke="#b34a5d" stroke-width="1.8"/>
+      <path d="M 14 -2 L 24 0 L 14 2 Z" fill="#df6a7d"/>
+      <circle cx="21" cy="0" r="1.3" fill="#8c394d"/>
+      <ellipse cx="5" cy="-0.3" rx="5" ry="2" fill="#3a6f9a" opacity="0.95"/>
+      <rect x="-5" y="-11.5" width="6.5" height="1.6" rx="0.7" fill="#df6a7d"/>
+      <rect x="-5" y="9.9" width="6.5" height="1.6" rx="0.7" fill="#df6a7d"/>
+    </g>
+  
+        <animateMotion dur="16.799999999999997s" repeatCount="indefinite" rotate="auto" calcMode="linear">
+          <mpath xlink:href="#missionTrack" href="#missionTrack"/>
+        </animateMotion>
+      </g>
+    </g>
+
+    <g opacity="0.85">
+      <text x="24" y="214" fill="#5d3b46" font-size="10" font-family="Segoe UI, Arial, sans-serif">Shambhavichaudhary · 6 targets · arcade lock-on</text>
+      <text x="592" y="214" fill="#5d3b46" font-size="10" font-family="Segoe UI, Arial, sans-serif">flight signal: LIGHT</text>
+    </g>
+  </svg>

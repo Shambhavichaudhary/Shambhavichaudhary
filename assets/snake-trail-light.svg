@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 170" role="img" aria-labelledby="title desc">
+    <title id="title">Shambhavichaudhary learning trail</title>
+    <desc id="desc">A subtle snake-like contribution path showing the journey of learning and building.</desc>
+    <rect width="100%" height="100%" fill="#fff8f9" rx="18"/>
+    <g opacity="0.16">
+      
+        <line x1="30" y1="20" x2="30" y2="150" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="88" y1="20" x2="88" y2="150" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="146" y1="20" x2="146" y2="150" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="204" y1="20" x2="204" y2="150" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="262" y1="20" x2="262" y2="150" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="320" y1="20" x2="320" y2="150" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="378" y1="20" x2="378" y2="150" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="436" y1="20" x2="436" y2="150" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="494" y1="20" x2="494" y2="150" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="552" y1="20" x2="552" y2="150" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="610" y1="20" x2="610" y2="150" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="668" y1="20" x2="668" y2="150" stroke="#e4d0d7" stroke-width="1"/>
+      
+      
+        <line x1="20" y1="28" x2="740" y2="28" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="20" y1="46" x2="740" y2="46" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="20" y1="64" x2="740" y2="64" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="20" y1="82" x2="740" y2="82" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="20" y1="100" x2="740" y2="100" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="20" y1="118" x2="740" y2="118" stroke="#e4d0d7" stroke-width="1"/>
+      
+        <line x1="20" y1="136" x2="740" y2="136" stroke="#e4d0d7" stroke-width="1"/>
+      
+    </g>
+    <path d="M 24 118 C 90 118, 120 68, 160 90 S 234 150, 300 118 S 372 70, 430 112 S 499 146, 570 104 S 640 82, 734 110" fill="none" stroke="#df6a7d" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+    <path d="M 24 118 C 90 118, 120 68, 160 90 S 234 150, 300 118 S 372 70, 430 112 S 499 146, 570 104 S 640 82, 734 110" fill="none" stroke="#1d1d1d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 10" opacity="0.75">
+      <animate attributeName="stroke-dashoffset" values="0; -120" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <g>
+      <circle cx="34" cy="128" r="4.5" fill="#b34a5d" opacity="0.5"/><circle cx="76" cy="102" r="3.8" fill="#b34a5d" opacity="0.58"/><circle cx="118" cy="104" r="4.5" fill="#b34a5d" opacity="0.66"/><circle cx="160" cy="78" r="3.8" fill="#b34a5d" opacity="0.74"/><circle cx="202" cy="128" r="4.5" fill="#b34a5d" opacity="0.8200000000000001"/><circle cx="244" cy="102" r="3.8" fill="#b34a5d" opacity="0.5"/><circle cx="286" cy="104" r="4.5" fill="#b34a5d" opacity="0.58"/><circle cx="328" cy="78" r="3.8" fill="#b34a5d" opacity="0.66"/><circle cx="370" cy="128" r="4.5" fill="#b34a5d" opacity="0.74"/><circle cx="412" cy="102" r="3.8" fill="#b34a5d" opacity="0.8200000000000001"/><circle cx="454" cy="104" r="4.5" fill="#b34a5d" opacity="0.5"/><circle cx="496" cy="78" r="3.8" fill="#b34a5d" opacity="0.58"/><circle cx="538" cy="128" r="4.5" fill="#b34a5d" opacity="0.66"/><circle cx="580" cy="102" r="3.8" fill="#b34a5d" opacity="0.74"/><circle cx="622" cy="104" r="4.5" fill="#b34a5d" opacity="0.8200000000000001"/><circle cx="664" cy="78" r="3.8" fill="#b34a5d" opacity="0.5"/>
+    </g>
+    <text x="26" y="26" fill="#5d3b46" font-size="10" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2">LEARNING TRAIL / BUILD-FLOW</text>
+  </svg>
