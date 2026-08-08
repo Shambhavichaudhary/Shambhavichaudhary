@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
-const username = 'Shambhavichaudhary';
+const username = process.env.GITHUB_USERNAME || 'Shambhavichaudhary';
 const theme = process.argv[2] === 'light' ? 'light' : 'dark';
 
 const baseColors = {

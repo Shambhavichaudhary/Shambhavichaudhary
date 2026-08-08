@@ -6,4 +6,18 @@
     <text x="36" y="52" fill="#ff93a5" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2">LANGUAGE STACK</text>
     <text x="36" y="84" fill="#f7f0f3" font-size="28" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Top languages</text>
     
+        <g>
+          <text x="28" y="78" fill="#f7f0f3" font-size="12" font-family="Segoe UI, Arial, sans-serif">JavaScript</text>
+          <rect x="150" y="70" width="560" height="16" rx="8" fill="#1b232b"/>
+          <rect x="150" y="70" width="314.6843339700655" height="16" rx="8" fill="#ef6a7d"/>
+          <text x="720" y="78" fill="#d8b7c1" font-size="11" font-family="Segoe UI, Arial, sans-serif">56.2%</text>
+        </g>
+      
+        <g>
+          <text x="28" y="104" fill="#f7f0f3" font-size="12" font-family="Segoe UI, Arial, sans-serif">C</text>
+          <rect x="150" y="96" width="560" height="16" rx="8" fill="#1b232b"/>
+          <rect x="150" y="96" width="245.31566602993448" height="16" rx="8" fill="#ff93a5"/>
+          <text x="720" y="104" fill="#d8b7c1" font-size="11" font-family="Segoe UI, Arial, sans-serif">43.8%</text>
+        </g>
+      
   </svg>

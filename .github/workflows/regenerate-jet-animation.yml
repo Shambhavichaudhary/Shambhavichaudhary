@@ -1,0 +1,57 @@
+name: Regenerate Jet Contribution Animation
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'generate.mjs'
+      - '.github/workflows/regenerate-jet-animation.yml'
+
+jobs:
+  update-jet-animation:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate jet animation for dark theme
+        env:
+          GITHUB_USERNAME: Shambhavichaudhary
+        run: node generate.mjs dark
+
+      - name: Generate jet animation for light theme
+        env:
+          GITHUB_USERNAME: Shambhavichaudhary
+        run: node generate.mjs light
+
+      - name: Check for generated asset changes
+        id: diff
+        run: |
+          git add assets/jet-heatmap-dark.svg assets/jet-heatmap-light.svg
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push generated SVG updates
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh jet contribution animation"
+          git push
