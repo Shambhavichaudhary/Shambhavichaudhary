@@ -35,19 +35,19 @@
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.401;0.5333;0.5343;1" dur="19.599999999999998s" repeatCount="indefinite"/>
       </text>
     
-      <text x="652" y="42" fill="#ff93a5" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">23
+      <text x="652" y="42" fill="#ff93a5" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">24
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5333;0.5343;0.6667;0.6677;1" dur="19.599999999999998s" repeatCount="indefinite"/>
       </text>
     
-      <text x="652" y="42" fill="#ff93a5" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">26
+      <text x="652" y="42" fill="#ff93a5" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">27
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6667;0.6677;0.8;0.801;1" dur="19.599999999999998s" repeatCount="indefinite"/>
       </text>
     
-      <text x="652" y="42" fill="#ff93a5" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">28
+      <text x="652" y="42" fill="#ff93a5" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">30
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8;0.801;0.9333;0.9343;1" dur="19.599999999999998s" repeatCount="indefinite"/>
       </text>
     
-      <text x="652" y="42" fill="#ff93a5" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">29
+      <text x="652" y="42" fill="#ff93a5" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">32
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.9333;0.9343;1;1;1" dur="19.599999999999998s" repeatCount="indefinite"/>
       </text>
     
@@ -2591,43 +2591,43 @@
       
         <g aria-label="3 contributions on 2026-08-05">
           <rect x="687" y="73" width="9" height="9" rx="2.2" fill="#4a2134" stroke="#8f3245" opacity="0.96">
-            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.5233;0.5333;0.5932999999999999;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.6567;0.6667;0.7266999999999999;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           </rect>
           
           <circle cx="691.5" cy="77.5" r="4" fill="none" stroke="#ff93a5" stroke-width="1.8" opacity="0">
-            <animate attributeName="r" values="4;14;14" keyTimes="0;0.5333;0.5932999999999999" dur="19.599999999999998s" repeatCount="indefinite"/>
-            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.5233;0.5333;0.5932999999999999;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="r" values="4;14;14" keyTimes="0;0.6667;0.7266999999999999" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.6567;0.6667;0.7266999999999999;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           </circle>
           <rect x="685.5" y="71.5" width="12" height="12" rx="3" fill="none" stroke="#ffb1bf" stroke-width="1.5" opacity="0">
-            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.5283;0.5333;0.5932999999999999;0.6333;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.6617;0.6667;0.7266999999999999;0.7666999999999999;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           </rect>
         </g>
       
         <g aria-label="3 contributions on 2026-08-06">
           <rect x="687" y="86" width="9" height="9" rx="2.2" fill="#4a2134" stroke="#8f3245" opacity="0.96">
-            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.6567;0.6667;0.7266999999999999;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.79;0.8;0.8600000000000001;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           </rect>
           
           <circle cx="691.5" cy="90.5" r="4" fill="none" stroke="#ff93a5" stroke-width="1.8" opacity="0">
-            <animate attributeName="r" values="4;14;14" keyTimes="0;0.6667;0.7266999999999999" dur="19.599999999999998s" repeatCount="indefinite"/>
-            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.6567;0.6667;0.7266999999999999;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="r" values="4;14;14" keyTimes="0;0.8;0.8600000000000001" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.79;0.8;0.8600000000000001;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           </circle>
           <rect x="685.5" y="84.5" width="12" height="12" rx="3" fill="none" stroke="#ffb1bf" stroke-width="1.5" opacity="0">
-            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.6617;0.6667;0.7266999999999999;0.7666999999999999;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.795;0.8;0.8600000000000001;0.9000000000000001;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           </rect>
         </g>
       
         <g aria-label="2 contributions on 2026-08-07">
           <rect x="687" y="99" width="9" height="9" rx="2.2" fill="#2a1c27" stroke="#8f3245" opacity="0.96">
-            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.79;0.8;0.8600000000000001;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.9233;0.9333;0.9933000000000001;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           </rect>
           
           <circle cx="691.5" cy="103.5" r="4" fill="none" stroke="#ff93a5" stroke-width="1.3" opacity="0">
-            <animate attributeName="r" values="4;11;11" keyTimes="0;0.8;0.8600000000000001" dur="19.599999999999998s" repeatCount="indefinite"/>
-            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.79;0.8;0.8600000000000001;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="r" values="4;11;11" keyTimes="0;0.9333;0.9933000000000001" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.9233;0.9333;0.9933000000000001;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           </circle>
           <rect x="685.5" y="97.5" width="12" height="12" rx="3" fill="none" stroke="#ffb1bf" stroke-width="1.5" opacity="0">
-            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.795;0.8;0.8600000000000001;0.9000000000000001;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.9283;0.9333;0.9933000000000001;1;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           </rect>
         </g>
       
@@ -2645,17 +2645,17 @@
           </rect>
         </g>
       
-        <g aria-label="1 contribution on 2026-08-09">
-          <rect x="700" y="34" width="9" height="9" rx="2.2" fill="#2a1c27" stroke="#8f3245" opacity="0.96">
-            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.9233;0.9333;0.9933000000000001;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+        <g aria-label="4 contributions on 2026-08-09">
+          <rect x="700" y="34" width="9" height="9" rx="2.2" fill="#4a2134" stroke="#8f3245" opacity="0.96">
+            <animate attributeName="opacity" values="0.96;0.96;1;0.96;0.96" keyTimes="0;0.5233;0.5333;0.5932999999999999;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           </rect>
           
-          <circle cx="704.5" cy="38.5" r="4" fill="none" stroke="#ff93a5" stroke-width="1.3" opacity="0">
-            <animate attributeName="r" values="4;11;11" keyTimes="0;0.9333;0.9933000000000001" dur="19.599999999999998s" repeatCount="indefinite"/>
-            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.9233;0.9333;0.9933000000000001;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+          <circle cx="704.5" cy="38.5" r="4" fill="none" stroke="#ff93a5" stroke-width="1.8" opacity="0">
+            <animate attributeName="r" values="4;14;14" keyTimes="0;0.5333;0.5932999999999999" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.5233;0.5333;0.5932999999999999;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           </circle>
           <rect x="698.5" y="32.5" width="12" height="12" rx="3" fill="none" stroke="#ffb1bf" stroke-width="1.5" opacity="0">
-            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.9283;0.9333;0.9933000000000001;1;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;0;1;0.35;0;0" keyTimes="0;0.5283;0.5333;0.5932999999999999;0.6333;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           </rect>
         </g>
       
@@ -2704,7 +2704,7 @@
     </g>
 
     <!-- mission path is target-driven (invisible gameplay rail) -->
-    <path id="missionTrack" d="M 380.0 200.0 L 691.5 86.5 L 691.5 64.5 L 444.5 125.5 L 444.5 103.5 L 691.5 138.5 L 691.5 116.5 L 691.5 99.5 L 691.5 77.5 L 691.5 112.5 L 691.5 90.5 L 691.5 125.5 L 691.5 103.5 L 704.5 60.5 L 704.5 38.5 L 380.0 200.0" fill="none" stroke="#ff93a5" stroke-width="1.2" stroke-dasharray="3 7" opacity="0.18"/>
+    <path id="missionTrack" d="M 380.0 200.0 L 691.5 86.5 L 691.5 64.5 L 444.5 125.5 L 444.5 103.5 L 691.5 138.5 L 691.5 116.5 L 704.5 60.5 L 704.5 38.5 L 691.5 99.5 L 691.5 77.5 L 691.5 112.5 L 691.5 90.5 L 691.5 125.5 L 691.5 103.5 L 380.0 200.0" fill="none" stroke="#ff93a5" stroke-width="1.2" stroke-dasharray="3 7" opacity="0.18"/>
 
     <g>
       
@@ -2732,34 +2732,34 @@
           <animate attributeName="r" values="1;1;5;2;2" keyTimes="0;0.4;0.41000000000000003;0.43500000000000005;1" dur="19.599999999999998s" repeatCount="indefinite"/>
         </circle>
       
-        <line x1="691.5" y1="91.5" x2="691.5" y2="80.5" stroke="#ffb1bf" stroke-width="2" stroke-linecap="round" opacity="0">
+        <line x1="704.5" y1="52.5" x2="704.5" y2="41.5" stroke="#ffb1bf" stroke-width="2" stroke-linecap="round" opacity="0">
           <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.5183;0.5333;0.5683;1" dur="19.599999999999998s" repeatCount="indefinite"/>
         </line>
-        <circle cx="691.5" cy="77.5" r="2.5" fill="#f7f0f3" opacity="0">
+        <circle cx="704.5" cy="38.5" r="2.5" fill="#f7f0f3" opacity="0">
           <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.5333;0.5413;0.5683;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           <animate attributeName="r" values="1;1;5;2;2" keyTimes="0;0.5333;0.5433;0.5683;1" dur="19.599999999999998s" repeatCount="indefinite"/>
         </circle>
       
-        <line x1="691.5" y1="104.5" x2="691.5" y2="93.5" stroke="#ffb1bf" stroke-width="2" stroke-linecap="round" opacity="0">
+        <line x1="691.5" y1="91.5" x2="691.5" y2="80.5" stroke="#ffb1bf" stroke-width="2" stroke-linecap="round" opacity="0">
           <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.6517;0.6667;0.7017;1" dur="19.599999999999998s" repeatCount="indefinite"/>
         </line>
-        <circle cx="691.5" cy="90.5" r="2.5" fill="#f7f0f3" opacity="0">
+        <circle cx="691.5" cy="77.5" r="2.5" fill="#f7f0f3" opacity="0">
           <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.6667;0.6747;0.7017;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           <animate attributeName="r" values="1;1;5;2;2" keyTimes="0;0.6667;0.6767;0.7017;1" dur="19.599999999999998s" repeatCount="indefinite"/>
         </circle>
       
-        <line x1="691.5" y1="117.5" x2="691.5" y2="106.5" stroke="#ffb1bf" stroke-width="2" stroke-linecap="round" opacity="0">
+        <line x1="691.5" y1="104.5" x2="691.5" y2="93.5" stroke="#ffb1bf" stroke-width="2" stroke-linecap="round" opacity="0">
           <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.785;0.8;0.8350000000000001;1" dur="19.599999999999998s" repeatCount="indefinite"/>
         </line>
-        <circle cx="691.5" cy="103.5" r="2.5" fill="#f7f0f3" opacity="0">
+        <circle cx="691.5" cy="90.5" r="2.5" fill="#f7f0f3" opacity="0">
           <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.8;0.808;0.8350000000000001;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           <animate attributeName="r" values="1;1;5;2;2" keyTimes="0;0.8;0.81;0.8350000000000001;1" dur="19.599999999999998s" repeatCount="indefinite"/>
         </circle>
       
-        <line x1="704.5" y1="52.5" x2="704.5" y2="41.5" stroke="#ffb1bf" stroke-width="2" stroke-linecap="round" opacity="0">
+        <line x1="691.5" y1="117.5" x2="691.5" y2="106.5" stroke="#ffb1bf" stroke-width="2" stroke-linecap="round" opacity="0">
           <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.9183;0.9333;0.9683;1" dur="19.599999999999998s" repeatCount="indefinite"/>
         </line>
-        <circle cx="704.5" cy="38.5" r="2.5" fill="#f7f0f3" opacity="0">
+        <circle cx="691.5" cy="103.5" r="2.5" fill="#f7f0f3" opacity="0">
           <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.9333;0.9413;0.9683;1" dur="19.599999999999998s" repeatCount="indefinite"/>
           <animate attributeName="r" values="1;1;5;2;2" keyTimes="0;0.9333;0.9433;0.9683;1" dur="19.599999999999998s" repeatCount="indefinite"/>
         </circle>
@@ -2780,24 +2780,24 @@
           <animate attributeName="y" values="116.5;116.5;116.5;106.6;94.5;94.5" keyTimes="0;0.4;0.41000000000000003;0.44;0.52;1" dur="19.599999999999998s" repeatCount="indefinite"/>
         </text>
       
-        <text x="691.5" y="77.5" text-anchor="middle" fill="#ff93a5" font-size="12" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">+3
+        <text x="704.5" y="38.5" text-anchor="middle" fill="#ff93a5" font-size="12" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">+4
           <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5333;0.5433;0.5733;0.6533;1" dur="19.599999999999998s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="77.5;77.5;77.5;67.6;55.5;55.5" keyTimes="0;0.5333;0.5433;0.5733;0.6533;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="38.5;38.5;38.5;28.6;16.5;16.5" keyTimes="0;0.5333;0.5433;0.5733;0.6533;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+        </text>
+      
+        <text x="691.5" y="77.5" text-anchor="middle" fill="#ff93a5" font-size="12" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">+3
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6667;0.6767;0.7067;0.7867;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="77.5;77.5;77.5;67.6;55.5;55.5" keyTimes="0;0.6667;0.6767;0.7067;0.7867;1" dur="19.599999999999998s" repeatCount="indefinite"/>
         </text>
       
         <text x="691.5" y="90.5" text-anchor="middle" fill="#ff93a5" font-size="12" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">+3
-          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6667;0.6767;0.7067;0.7867;1" dur="19.599999999999998s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="90.5;90.5;90.5;80.6;68.5;68.5" keyTimes="0;0.6667;0.6767;0.7067;0.7867;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8;0.81;0.8400000000000001;0.92;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="90.5;90.5;90.5;80.6;68.5;68.5" keyTimes="0;0.8;0.81;0.8400000000000001;0.92;1" dur="19.599999999999998s" repeatCount="indefinite"/>
         </text>
       
         <text x="691.5" y="103.5" text-anchor="middle" fill="#ff93a5" font-size="10" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">+2
-          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8;0.81;0.8400000000000001;0.92;1" dur="19.599999999999998s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="103.5;103.5;103.5;96.3;87.5;87.5" keyTimes="0;0.8;0.81;0.8400000000000001;0.92;1" dur="19.599999999999998s" repeatCount="indefinite"/>
-        </text>
-      
-        <text x="704.5" y="38.5" text-anchor="middle" fill="#ff93a5" font-size="10" font-weight="700" font-family="Segoe UI, Arial, sans-serif" opacity="0">+1
           <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.9333;0.9433;0.9733;1;1" dur="19.599999999999998s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="38.5;38.5;38.5;31.3;22.5;22.5" keyTimes="0;0.9333;0.9433;0.9733;1;1" dur="19.599999999999998s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="103.5;103.5;103.5;96.3;87.5;87.5" keyTimes="0;0.9333;0.9433;0.9733;1;1" dur="19.599999999999998s" repeatCount="indefinite"/>
         </text>
       
     </g>
